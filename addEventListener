@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<span id = "spanak">Mouse over me!</span>
+
+<script>
+document.getElementById("spanak").addEventListener("mouseover",  function () {
+document.getElementById("spanak").style.color = "blue";
+});
+</script>
+</body>
+</html>
