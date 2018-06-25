@@ -1,0 +1,11 @@
+Get the URL address of a link.
+($('a').attr('href'));
+
+Get value of input field:
+($('input').val());
+
+Get HTML content of <p>
+($('p').html())
+
+Get the text content of <p>
+($('p').text())
